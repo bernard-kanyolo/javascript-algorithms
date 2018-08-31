@@ -1,0 +1,19 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "algorithms and data structures implemented in javascript for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernard-kanyolo/javascript-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernard-kanyolo/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/bernard-kanyolo/javascript-algorithms#readme"
+}
